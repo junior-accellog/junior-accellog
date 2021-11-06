@@ -28,6 +28,8 @@
     src="https://avatars.githubusercontent.com/u/64614433?s=400&v=4?width=676&height=676">
 </div> 
   
+##
+  
 <div>
   <a href="mailto:wagner.junior@accellog.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
